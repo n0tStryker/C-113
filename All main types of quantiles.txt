@@ -1,0 +1,7 @@
+Quantiles-
+2 Quantiles - Median
+3 Quantiles - Terciles
+4 Quantiles - Quartiles
+5 Quantiles - Quintiles
+10 Quantiles - Deciles
+100 Quantiles - Percentiles
